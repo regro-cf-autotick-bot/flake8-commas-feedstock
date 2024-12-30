@@ -5,7 +5,7 @@ Feedstock license: [BSD-3-Clause](https://github.com/conda-forge/flake8-commas-f
 
 Home: https://github.com/PyCQA/flake8-commas/
 
-Package license: NOASSERTION
+Package license: MIT
 
 Summary: Flake8 lint for trailing commas.
 
